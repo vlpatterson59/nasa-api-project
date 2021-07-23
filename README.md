@@ -9,6 +9,8 @@ The application will also be mobile responsive.
 ## What I Learned
 
 * cannot use ```hidden``` element property when using ```display: flex;```; create a ```'hidden' class``` with a ```display: none;``` property, then ```add``` or ```remove``` from ```classlist``` as needed
+* CSS [```z-index``` property](https://www.w3schools.com/cssref/pr_pos_z-index.asp)
+* CSS [```user-select``` property](https://developer.mozilla.org/en-US/docs/Web/CSS/user-select)
 
 ## Future Modifications and Enhancements
 
